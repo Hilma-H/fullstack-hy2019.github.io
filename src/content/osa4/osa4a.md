@@ -601,7 +601,7 @@ test('of empty array is zero', () => {
 
 ### Tehtäviä
 
-Tehdään joukko blogilistan käsittelyyn tarkoitettuja apufunktioita. Tee funktiot esim. tiedostoon <i>utils/list_helper.js</i>. Tee testit sopivasti nimettyyn tiedostoon hakemistoon <i>tests</i>.
+Tehdään joukko blogilistan käsittelyyn tarkoitettuja apufunktioita. Tee funktiot esim. tiedostoon <i>utils/list_helper.js</i>. Tee testit sopivasti nimetyn tiedoston hakemistoon <i>tests</i>.
 
 #### 4.3: apufunktioita ja yksikkötestejä, step1
 
